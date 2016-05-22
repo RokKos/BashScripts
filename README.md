@@ -41,14 +41,17 @@ name_of_bash_script.sh parameters
 ```
 ## Scripts
 
-List of avaliable scripts
+List of avaliable scripts:
+
+* BashList.sh
+* cmpCplus.sh
+* CopyPerm.sh
+* lscd.sh
 
 ## Examples
 
 ## TODO
 
-* Script that will automaticly clone and install bash scripts
-* Script that will list all avaliable scripts
 * Script that will dowloand all files on site
 * Script that will get input and output from contest site
 
