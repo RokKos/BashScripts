@@ -12,10 +12,10 @@ BB='\033[0;34m'  # blue
 NC='\033[0m' # No Color
 BG='\033[0;32m' #green
 
-error() { >&2 echo "${RED}$1${NC}"; }
-showinfo() { echo "${BG}$1${NC}"; }
-workingprocess() { echo "${BB}$1${NC}"; }
-allert () { echo "${RED}$1${NC}"; }
+error() { >&2 echo -e "${RED}$1${NC}"; }
+showinfo() { echo -e "${BG}$1${NC}"; }
+workingprocess() { echo -e "${BB}$1${NC}"; }
+allert () { echo -e "${RED}$1${NC}"; }
 
 #Get file name
 fl=$(echo $1|sed 's/\(.*\)\.java/\1/')
