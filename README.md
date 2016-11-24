@@ -3,12 +3,12 @@
 Repository for all my bash scripts that make life simple
 
 ### Table of Contents
-**[Installing](#installing)**  
-**[Scripts](#scripts)**  
-**[Examples](#examples)**  
-**[TODO](#todo)**  
-**[Authors](#authors)**  
-**[License](#license)**  
+**[Installing](#installing)**
+**[Scripts](#scripts)**
+**[Examples](#examples)**
+**[TODO](#todo)**
+**[Authors](#authors)**
+**[License](#license)**
 
 ## Installing
 
@@ -54,6 +54,8 @@ List of avaliable scripts:
 
 * Script that will dowloand all files on site
 * Script that will get input and output from contest site
+* Script that will compile latex file(with bibliography) and clear all unsed files
+* Script that will change file names
 
 ## Authors
 
